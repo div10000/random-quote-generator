@@ -1,8 +1,8 @@
-# Quotable
+# Random Quote Generator
 
 A minimal, beautiful random quote generator with dark/light mode.
 
-**[Live Demo](https://div1000.github.io/random-quote-generator/quote-generator.html)**
+**[Live Demo](https://div10000.github.io/random-quote-generator/quote-generator.html)**
 
 ---
 
